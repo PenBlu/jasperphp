@@ -5,7 +5,7 @@ Package to generate reports with [JasperReports 6](http://community.jaspersoft.c
 ## Install
 
 ```
-composer require penblu/jasperphp
+composer require penblu/yii-jasperphp
 ```
 
 ## Introduction
