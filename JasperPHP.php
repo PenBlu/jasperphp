@@ -4,7 +4,7 @@ namespace penblu\jasperphp;
 
 class JasperPHP
 {
-    protected $executable = "./jasperstarter/bin/jasperstarter";
+    protected $executable = "/jasperstarter/bin/jasperstarter";
     protected $the_command;
     protected $redirect_output;
     protected $background;
